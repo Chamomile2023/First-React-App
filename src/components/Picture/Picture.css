@@ -1,0 +1,32 @@
+.picture__title{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.picture--title{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 200%;
+    color: #212121;
+}
+.picture--parag{
+    font-family: 'Poppins';
+    font-size: 16px;
+    line-height: 200%;
+    text-align: right;
+    color: #949494;
+}
+.picture__heading{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 200%;
+    color: #949494;
+}
+.pictures{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 0 190px 0;
+}

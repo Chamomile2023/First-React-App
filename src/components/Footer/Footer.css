@@ -1,0 +1,32 @@
+.footer__hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    padding: 150px 0 50px;
+}
+.footer_one{
+    display: flex;
+    align-items: center;
+}
+.footer__title{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 200%;
+    color: #212121;
+}
+.footer__icons{
+    width: 50%;
+    padding-top: 15px;
+    display: flex;
+    justify-content:space-between;
+}
+.footer__icons>img{
+    width: 24px;
+    height: 24px;
+}
+.footer__link{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 200%;
+    color: #949494;
+}
